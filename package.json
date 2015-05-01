@@ -1,0 +1,25 @@
+{
+  "name": "gif-tsv-converter",
+  "version": "0.0.1",
+  "description": "Creating a converter for doing GIF to CSV converstion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidfekke/gif-tsv-converter.git"
+  },
+  "keywords": [
+    "GIF",
+    "BMP",
+    "TSV",
+    "Converter"
+  ],
+  "author": "David Fekke <david@fekke.com> (http://fek.io)",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/davidfekke/gif-tsv-converter/issues"
+  },
+  "homepage": "https://github.com/davidfekke/gif-tsv-converter"
+}
