@@ -1,6 +1,8 @@
 # gif-tsv-converter
 Creating a animated GIF to TSV converter for the Tiny-Screen
 
+This script requires that the latest version of ImageMagick be installed on your system.
+
 I modified Tony Batey's shell script and renamed it 'converttotsv.sh'.
 
 On the Mac or Linux, you will have to sudo chmod the file to 755.
