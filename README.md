@@ -6,7 +6,7 @@ I modified Tony Batey's shell script and renamed it 'converttotsv.sh'.
 On the Mac or Linux, you will have to sudo chmod the file to 755.
 
 ```shell
-sudo chmod 755 'filename'
+sudo chmod 755 'converttotsv.sh'
 ```
 
 Then from the command line you can run the shell command like so;
