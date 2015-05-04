@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/davidfekke/gif-tsv-converter/issues"
   },
-  "homepage": "https://github.com/davidfekke/gif-tsv-converter"
+  "homepage": "https://github.com/davidfekke/gif-tsv-converter",
+  "dependencies": {
+    "gm": "^1.17.0"
+  }
 }
